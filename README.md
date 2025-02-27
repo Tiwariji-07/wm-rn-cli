@@ -1,4 +1,4 @@
-# WaveMaker Page CLI
+# WaveMaker ReactNative CLI
 
 A command-line tool to scaffold new pages in your WaveMaker project quickly. This CLI generates a new page folder under `src/pages` with boilerplate files and automatically updates configuration files.
 
@@ -22,12 +22,12 @@ A command-line tool to scaffold new pages in your WaveMaker project quickly. Thi
 Ensure you have Node.js and npm installed. Then install the CLI globally:
 
 ```bash
-npm install -g wavemaker-page-cli
+npm install -g wavemaker-rn-cli
 ```
 
 ## Usage
 
-Once installed, run the command followed by the desired page name:
+Once installed, run the command followed by the desired page name at the root of wavemaker rn project:
 
 ```bash
 create-page <PageName>
